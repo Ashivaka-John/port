@@ -1242,4 +1242,6 @@ a:focus {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 21px;
+  margin-top: 10px;
+  margin-left: 100px;
 }
