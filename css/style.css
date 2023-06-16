@@ -1038,7 +1038,7 @@ a:focus {
 }
 
 .contact .container-fluid {
-  background: url(../img/WhatsApp\ Image\ 2023-06-04\ at\ 11.49.46.jpg) left center no-repeat;
+  background: url(../img/animi3.png) left center no-repeat;
   background-size: contain;
 }
 
@@ -1238,7 +1238,7 @@ a:focus {
   }
 }
 
-.gallery{
+.gallery {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 21px;
